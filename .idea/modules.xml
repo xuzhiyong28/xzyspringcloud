@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/xzyservicecloud-consumer-dept-80/xzyservicecloud-consumer-dept-80.iml" filepath="$PROJECT_DIR$/xzyservicecloud-consumer-dept-80/xzyservicecloud-consumer-dept-80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xzyservicecloud-consumer-dept-feign/xzyservicecloud-consumer-dept-feign.iml" filepath="$PROJECT_DIR$/xzyservicecloud-consumer-dept-feign/xzyservicecloud-consumer-dept-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xzyservicecloud-consumer-hystrix-dashboard/xzyservicecloud-consumer-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/xzyservicecloud-consumer-hystrix-dashboard/xzyservicecloud-consumer-hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xzyservicecloud-eureka-7001/xzyservicecloud-eureka-7001.iml" filepath="$PROJECT_DIR$/xzyservicecloud-eureka-7001/xzyservicecloud-eureka-7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xzyservicecloud-eureka-7002/xzyservicecloud-eureka-7002.iml" filepath="$PROJECT_DIR$/xzyservicecloud-eureka-7002/xzyservicecloud-eureka-7002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xzyservicecloud-eureka-7003/xzyservicecloud-eureka-7003.iml" filepath="$PROJECT_DIR$/xzyservicecloud-eureka-7003/xzyservicecloud-eureka-7003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xzyservicecloud-provider-dept-8001/xzyservicecloud-provider-dept-8001.iml" filepath="$PROJECT_DIR$/xzyservicecloud-provider-dept-8001/xzyservicecloud-provider-dept-8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xzyservicecloud-provider-dept-8002/xzyservicecloud-provider-dept-8002.iml" filepath="$PROJECT_DIR$/xzyservicecloud-provider-dept-8002/xzyservicecloud-provider-dept-8002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xzyservicecloud-provider-dept-8003/xzyservicecloud-provider-dept-8003.iml" filepath="$PROJECT_DIR$/xzyservicecloud-provider-dept-8003/xzyservicecloud-provider-dept-8003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xzyservicecloud-provider-dept-hystrix-8001/xzyservicecloud-provider-dept-hystrix-8001.iml" filepath="$PROJECT_DIR$/xzyservicecloud-provider-dept-hystrix-8001/xzyservicecloud-provider-dept-hystrix-8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xzyspringcloud.iml" filepath="$PROJECT_DIR$/xzyspringcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xzyspringcloud-api/xzyspringcloud-api.iml" filepath="$PROJECT_DIR$/xzyspringcloud-api/xzyspringcloud-api.iml" />
+    </modules>
+  </component>
+</project>

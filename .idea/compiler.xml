@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="xzyservicecloud-consumer-dept-80" />
+        <module name="xzyservicecloud-consumer-dept-feign" />
+        <module name="xzyservicecloud-consumer-hystrix-dashboard" />
+        <module name="xzyservicecloud-eureka-7001" />
+        <module name="xzyservicecloud-eureka-7002" />
+        <module name="xzyservicecloud-eureka-7003" />
+        <module name="xzyservicecloud-provider-dept-8001" />
+        <module name="xzyservicecloud-provider-dept-8002" />
+        <module name="xzyservicecloud-provider-dept-8003" />
+        <module name="xzyservicecloud-provider-dept-hystrix-8001" />
+        <module name="xzyspringcloud-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="xzyservicecloud-consumer-dept-80" target="1.8" />
+      <module name="xzyservicecloud-consumer-dept-feign" target="1.8" />
+      <module name="xzyservicecloud-consumer-hystrix-dashboard" target="1.8" />
+      <module name="xzyservicecloud-eureka-7001" target="1.8" />
+      <module name="xzyservicecloud-eureka-7002" target="1.8" />
+      <module name="xzyservicecloud-eureka-7003" target="1.8" />
+      <module name="xzyservicecloud-provider-dept-8001" target="1.8" />
+      <module name="xzyservicecloud-provider-dept-8002" target="1.8" />
+      <module name="xzyservicecloud-provider-dept-8003" target="1.8" />
+      <module name="xzyservicecloud-provider-dept-hystrix-8001" target="1.8" />
+      <module name="xzyspringcloud" target="1.8" />
+      <module name="xzyspringcloud-api" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

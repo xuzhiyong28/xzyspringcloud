@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="xzyservicecloud-eureka-7002:war">
+    <output-path>$PROJECT_DIR$/xzyservicecloud-eureka-7002/target</output-path>
+    <root id="archive" name="microservicecloud.war">
+      <element id="artifact" artifact-name="xzyservicecloud-eureka-7002:war exploded" />
+    </root>
+  </artifact>
+</component>
