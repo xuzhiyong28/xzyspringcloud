@@ -2,6 +2,8 @@ server:
   port: 7001
 
 eureka:
+  server:
+    enable-self-preservation: false #关闭自我保护机制，在开发环境的时候关掉
   instance:
     hostname: eureka7001.com #eureka服务端的实例名称
   client:
