@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/xzyservicecloud-config-3344/xzyservicecloud-config-3344.iml" filepath="$PROJECT_DIR$/xzyservicecloud-config-3344/xzyservicecloud-config-3344.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xzyservicecloud-config-client-3355/xzyservicecloud-config-client-3355.iml" filepath="$PROJECT_DIR$/xzyservicecloud-config-client-3355/xzyservicecloud-config-client-3355.iml" />
       <module fileurl="file://$PROJECT_DIR$/xzyservicecloud-consumer-dept-80/xzyservicecloud-consumer-dept-80.iml" filepath="$PROJECT_DIR$/xzyservicecloud-consumer-dept-80/xzyservicecloud-consumer-dept-80.iml" />
       <module fileurl="file://$PROJECT_DIR$/xzyservicecloud-consumer-dept-feign/xzyservicecloud-consumer-dept-feign.iml" filepath="$PROJECT_DIR$/xzyservicecloud-consumer-dept-feign/xzyservicecloud-consumer-dept-feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/xzyservicecloud-consumer-hystrix-dashboard/xzyservicecloud-consumer-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/xzyservicecloud-consumer-hystrix-dashboard/xzyservicecloud-consumer-hystrix-dashboard.iml" />

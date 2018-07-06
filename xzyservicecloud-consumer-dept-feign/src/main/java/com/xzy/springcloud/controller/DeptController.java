@@ -19,6 +19,7 @@ import java.util.List;
 public class DeptController {
     @Autowired
     private DeptClientService deptClientService;
+
     @RequestMapping(value = "/consumer/dept/add")
     public boolean add(Dept dept) {
         return this.deptClientService.addDept(dept);

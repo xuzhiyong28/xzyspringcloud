@@ -6,6 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="xzyservicecloud-config-3344" />
+        <module name="xzyservicecloud-config-client-3355" />
         <module name="xzyservicecloud-consumer-dept-80" />
         <module name="xzyservicecloud-consumer-dept-feign" />
         <module name="xzyservicecloud-consumer-hystrix-dashboard" />
@@ -20,6 +22,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="xzyservicecloud-config-3344" target="1.8" />
+      <module name="xzyservicecloud-config-client-3355" target="1.8" />
       <module name="xzyservicecloud-consumer-dept-80" target="1.8" />
       <module name="xzyservicecloud-consumer-dept-feign" target="1.8" />
       <module name="xzyservicecloud-consumer-hystrix-dashboard" target="1.8" />

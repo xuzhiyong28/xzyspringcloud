@@ -1,0 +1,6 @@
+
+spring:
+  application:
+    name: xzyservicecloud-config-client
+server:
+  port: 3355
